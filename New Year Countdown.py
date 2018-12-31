@@ -12,24 +12,34 @@ def countDown():
     target=datetime.strptime('2019-01-01 00:00:00','%Y-%m-%d %H:%M:%S')
     now=datetime.now()
     seconds=target-now
-    #convert to all seconds
     seconds=seconds.days*24*60*60+seconds.seconds
+    m, s = divmod(seconds, 60)
+    h, m = divmod(m, 60)
+    #print ("%d:%02d:%02d" % (h, m, s))
     lbl.config(bg='white')
-    for i in range(seconds,-1,-1):
-        lbl["text"]=i
+    while h!=0 or m!=0 or s!=0:
+        lbl["text"]=h,m,s
         time.sleep(1)
         window.update()
-    lbl.config(bg='white')
+        s-=1
+        if s==0 and m==0 and h==0:
+            break
+        if m==0 and s==0:
+            h-=1
+            m=59
+            s=59
+        if s==0:
+            s=59
+            m-=1
+
+    lbl.config(bg="black",fg="#FFD700")
     lbl["text"]="Happy new year!"
 window=tk.Tk()
 window.title("Countdown timer")
-window.geometry("1920x1080")
-lbl=tk.Label(window, font=("Arial Bold",88))
+window.geometry("980x660")
+lbl=tk.Label(window,font=("Arial Bold",88),fg="black")
 lbl.pack(fill='both',expand=1)
 countDown()
 window.mainloop()
-
-
-
 
 

@@ -21,7 +21,6 @@ def countDown():
         lbl["text"]=h,m,s
         time.sleep(1)
         window.update()
-        s-=1
         if s==0 and m==0 and h==0:
             break
         if m==0 and s==0:
@@ -29,8 +28,9 @@ def countDown():
             m=59
             s=59
         if s==0:
-            s=59
+            s=60
             m-=1
+        s-=1
 
     lbl.config(bg="black",fg="#FFD700")
     lbl["text"]="Happy new year!"

@@ -11,4 +11,5 @@ Timeline: <br />
 30 Dec 2018: Third highest number.py <br />
 31 Dec 2018: New Year Countdown.py <br />
 1 Jan 2019: Calendar.py <br />
-2 Jan 2019: Busy training for part-time job :(
+2 Jan 2019: Busy training for part-time job :( <br />
+3 Jan 2019: Words Score.py

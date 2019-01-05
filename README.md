@@ -13,4 +13,5 @@ Timeline: <br />
 1 Jan 2019: Calendar.py <br />
 2 Jan 2019: Busy training for part-time job :( <br />
 3 Jan 2019: Words Score.py <br />
-4 Jan 2019: Detect Floating Point Number.py
+4 Jan 2019: Detect Floating Point Number.py <br />
+5 Jan 2019: Group().py

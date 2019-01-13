@@ -21,3 +21,5 @@ Timeline: <br />
 9 Jan 2019: Work day <br />
 10 Jan 2019: Hangman.py <br />
 11 Jan 2019: Magic 8-ball.py <br />
+12 Jan 2019: Work day <br />
+13 Jan 2019: Work day <br />

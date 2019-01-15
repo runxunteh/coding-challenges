@@ -23,3 +23,5 @@ Timeline: <br />
 11 Jan 2019: Magic 8-ball.py <br />
 12 Jan 2019: Work day <br />
 13 Jan 2019: Work day <br />
+14 Jan 2019: Rolling the dice.py <br />
+15 Jan 2019: Guessing Game.py <br />

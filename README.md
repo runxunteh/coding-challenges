@@ -26,3 +26,6 @@ Timeline: <br />
 14 Jan 2019: Rolling the dice.py <br />
 15 Jan 2019: Guessing Game.py <br />
 16 Jan 2019: Work day <br />
+17-19 Jan 2019: Assignment <br />
+20 Jan 2019: Work day <br />
+21 Jan 2019: Work day <br />

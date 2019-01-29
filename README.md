@@ -30,3 +30,5 @@ Timeline: <br />
 20 Jan 2019: Work day <br />
 21 Jan 2019: Work day <br />
 22 Jan 2019: test_QuestionsMarks.py <br />
+23-28 Jan 2019: Sick and assignment <br />
+29 Jan 2019: Work day <br />

@@ -35,3 +35,5 @@ Timeline: <br />
 30 Jan 2019: Work day <br />
 31 Jan 2019: Assignment <br />
 1 Feb 2019: Work day <br />
+2 Feb 2019: Busy <br />
+3 Feb 2019: Cracking the Coding Interview/Chapter 1/Is Unique.py <br />

@@ -39,3 +39,7 @@ Timeline: <br />
 3 Feb 2019: Cracking the Coding Interview/Chapter 1/Is Unique.py <br />
 4 Feb 2019: Cracking the Coding Interview/Chapter 1/Check Permutation.py <br />
 5 Feb 2019: Cracking the Coding Interview/Chapter 1/URLify.py <br />
+6-10 Feb 2019: CNY + Exam revision <br />
+11 Feb 2019: Exam <br />
+12-13 Feb 2019: Busy <br />
+14 Feb 2019: Even Digits.py from Google Kick Start 2018 <br />

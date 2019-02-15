@@ -29,6 +29,8 @@ def plus(x,i):
     if int(x[i])==9:
         if i==0 or x[0:i]=="8"*i:
             new=str("20")+str("0"*(int(len(x))-1))
+        else:
+            new=str(x[0:i])+str(int(x[i])+1)+str("0"*int(len(x)-i-1))
     else:
         new=str(x[0:i])+str(int(x[i])+1)+str("0"*int(len(x)-i-1))
     return int(new)-int(x)
@@ -46,9 +48,19 @@ def even_digits(x):
             min_button=min(y,z)
             return min_button
     return 0
+"""
+file=open("A-large-practice.in","r")
+aList=[]
+for line in file:
+    line=line.strip("\n")
+    aList.append(line)
+no_test_case=int(aList[0])
 
+for i in range(1,no_test_case+1):
+    print("Case #%d: %d"%(i,even_digits(aList[i])))
+"""
 no_test_case=int(input())
 for i in range(no_test_case):
     x=int(input())
     print("Case #%d: %d"%(i+1,even_digits(x)))
-    
+   

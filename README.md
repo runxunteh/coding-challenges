@@ -43,3 +43,4 @@ Timeline: <br />
 11 Feb 2019: Exam <br />
 12-13 Feb 2019: Busy <br />
 14 Feb 2019: Even Digits.py from Google Kick Start 2018 <br />
+15 Feb 2019: Lucky Dips.py from Google Kick Start 2018. Only first version of the program. <br />

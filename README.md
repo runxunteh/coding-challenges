@@ -42,6 +42,7 @@ Timeline: <br />
 6-10 Feb 2019: CNY + Exam revision <br />
 11 Feb 2019: Exam <br />
 12-13 Feb 2019: Busy <br />
-14 Feb 2019: Even Digits.py from Google Kick Start 2018 <br />
-15 Feb 2019: Lucky Dip.py from Google Kick Start 2018. Only first version of the program. <br />
-16 Feb 2019: Lucky Dip.py from Google Kick Start 2018. Second version of the program. <br />
+14 Feb 2019: Google Kick Start 2018/Round A/Even Digits.py <br />
+15 Feb 2019: Google Kick Start 2018/Round A/Lucky Dip.py. Only first version of the program. <br />
+16 Feb 2019: Google Kick Start 2018/Round A/Lucky Dip.py. Second version of the program. <br />
+17 Feb 2019: Google Kick Start 2018/Round B/No Nine.py. Only first version of the program. <br />

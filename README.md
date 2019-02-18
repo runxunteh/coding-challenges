@@ -46,3 +46,4 @@ Timeline: <br />
 15 Feb 2019: Google Kick Start 2018/Round A/Lucky Dip.py. Only first version of the program. <br />
 16 Feb 2019: Google Kick Start 2018/Round A/Lucky Dip.py. Second version of the program. <br />
 17 Feb 2019: Google Kick Start 2018/Round B/No Nine.py. Only first version of the program. <br />
+18 Feb 2019: CodeChef/Beginner/TABLET.py <br />

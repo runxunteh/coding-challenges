@@ -51,3 +51,4 @@ Timeline: <br />
 20 Feb 2019: CodeChef/Medium/COINS.py <br />
 21 Feb 2019: CodeChef/Hard/ORDERS.py <br />
 22 Feb 2019: CodeChef/Beginner/ICPC16B.py <br />
+22 Feb 2019: CodeChef/Easy/CHEFADV.py <br />

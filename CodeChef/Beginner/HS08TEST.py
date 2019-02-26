@@ -1,6 +1,6 @@
 """
 Author: Teh Run Xun
-Date: 18 February 2019
+Date: 26 February 2019
 https://www.codechef.com/problems/HS08TEST
 .......................
 Pooja would like to withdraw X $US from an ATM.

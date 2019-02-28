@@ -30,6 +30,10 @@ Subarray: {3},{4},{5},{3,4},{4,5},{3,4,5}
 5 6 4 3
 Case #3:  8 ({5},{6},{5,6},{6,4},{4,3},{5,6,4},{6,4,3},{5,6,4,3})
 Subarray: {5},{6},{4},{3},{5,6},{6,4},{4,3},{5,6,4},{6,4,3},{5,6,4,3}
+
+Solution: using two pointers i and j
+e.g. 5 6 4 3
+i=5 and j loop will run the sum OR {5,6} then {5,6,4} then {5,6,4,3}
 """
 
 no_of_test=int(input())
@@ -37,19 +41,15 @@ for i in range(no_of_test):
     N,K=map(int,input().split())
     A=list(map(int,input().split()))
     x=0
-    forall=0
     output=0
-    for i in range(N-1):
-        own=0
-        own=own|A[i]   #|: bitwise OR
-        if own>=K:
-            output+=1
-        
-        x=A[i]|A[i+1]
+    for i in range(N):
+        x=A[i]
         if x>=K:
             output+=1
         forall=forall|A[i]
     forall=forall|A[N-1]
     if forall>=K:
         output+=1
+            if x>=K:
+                output+=1
     print(output)

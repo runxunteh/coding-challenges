@@ -55,6 +55,8 @@ Timeline: <br />
 24 Feb 2019: CodeChef/Medium/FLIPCOIN.py <br />
 25 Feb 2019: CodeChef/Hard/ICPC16F.py <br />
 26 Feb 2019: CodeChef/Beginner/HS08TEST.py <br />
+27 Feb 2019: CodeChef/Easy/CHEFARRB.py <br />
+28 Feb 2019: CodeChef/Medium/TWTCLOSE.py <br />
 
 Count_no_py_files.py: To count the number of python files in the current directory <br />
-Current number of python files: 28
+Current number of python files: 30

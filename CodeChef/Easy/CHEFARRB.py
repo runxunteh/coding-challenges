@@ -1,7 +1,7 @@
 """
 Author: Teh Run Xun
 Date: 27 February 2019
-https://www.codechef.com/problems/CHEFA
+https://www.codechef.com/problems/CHEFARRB
 .......................
 Chef has an array A consisting of N integers.
 A sub-array of the array is good if the bitwise OR of all the elements in it

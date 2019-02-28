@@ -1,6 +1,6 @@
 """
 Author: Teh Run Xun
-Date: 19 February 2019
+Date: 27 February 2019
 https://www.codechef.com/problems/CHEFA
 .......................
 Chef has an array A consisting of N integers.

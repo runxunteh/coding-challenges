@@ -46,10 +46,8 @@ for i in range(no_of_test):
         x=A[i]
         if x>=K:
             output+=1
-        forall=forall|A[i]
-    forall=forall|A[N-1]
-    if forall>=K:
-        output+=1
+        for j in range(i+1,N):
+            x=x|A[j]   #|: bitwise OR
             if x>=K:
                 output+=1
     print(output)

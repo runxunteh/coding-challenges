@@ -8,6 +8,7 @@ Objects in motion tend to stay in motion. Once a task has begun, it’s easier t
 Therefore, this project is to force myself to code at least a program everyday no matter the difficulty or the completion.
 
 Timeline: <br />
+<details><summary><b>December 2018</b></summary></details>
 30 Dec 2018: Third highest number.py <br />
 31 Dec 2018: New Year Countdown.py <br />
 <br />

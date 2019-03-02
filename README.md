@@ -13,6 +13,7 @@ Timeline: <br />
 31 Dec 2018: New Year Countdown.py <br />
 </details>
 <br />
+<details><summary><b>January 2019</b></summary>
 1 Jan 2019: Calendar.py <br />
 2 Jan 2019: Busy training for part-time job :( <br />
 3 Jan 2019: Words Score.py <br />
@@ -37,7 +38,9 @@ Timeline: <br />
 29 Jan 2019: Work day <br />
 30 Jan 2019: Work day <br />
 31 Jan 2019: Assignment <br />
+</details>
 <br />
+<details><summary><b>February 2019</b></summary>
 1 Feb 2019: Work day <br />
 2 Feb 2019: Busy <br />
 3 Feb 2019: Cracking the Coding Interview/Chapter 1/Is Unique.py <br />
@@ -61,10 +64,12 @@ Timeline: <br />
 26 Feb 2019: CodeChef/Beginner/HS08TEST.py <br />
 27 Feb 2019: CodeChef/Easy/CHEFARRB.py <br />
 28 Feb 2019: CodeChef/Medium/TWTCLOSE.py <br />
+</details>
 <br />
+<details><summary><b>February 2019</b></summary>
 1 Mar 2019: Busy <br />
 2 Mar 2019: CodeChef/Hard/DOMSOL.py <br />
-
+</details>
 
 Count_no_py_files.py: To count the number of python files in the current directory <br />
 Current number of python files: 31

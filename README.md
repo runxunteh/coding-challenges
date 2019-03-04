@@ -69,6 +69,9 @@ Timeline: <br />
 <details><summary><b>March 2019</b></summary>
 1 Mar 2019: Busy <br />
 2 Mar 2019: CodeChef/Hard/DOMSOL.py <br />
+3 Mar 2019: Busy <br />
+4 Mar 2019: School starts <br />
+
 </details>
 <br />
 

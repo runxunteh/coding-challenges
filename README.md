@@ -71,6 +71,8 @@ Timeline: <br />
 2 Mar 2019: CodeChef/Hard/DOMSOL.py <br />
 3 Mar 2019: Busy <br />
 4 Mar 2019: School starts <br />
+5-7 Mar 2019: Busy <br />
+8-9 Mar 2019: Ipoh trip <br />
 
 </details>
 <br />

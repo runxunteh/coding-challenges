@@ -73,9 +73,9 @@ Timeline: <br />
 4 Mar 2019: School starts <br />
 5-7 Mar 2019: Busy <br />
 8-9 Mar 2019: Ipoh trip <br />
-
+10 Mar 2019: Staircase.py <br />
 </details>
 <br />
 
 Count_no_py_files.py: To count the number of python files in the current directory <br />
-Current number of python files: 31
+Current number of python files: 32

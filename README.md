@@ -74,6 +74,9 @@ Timeline: <br />
 5-7 Mar 2019: Busy <br />
 8-9 Mar 2019: Ipoh trip <br />
 10 Mar 2019: Staircase.py <br />
+11-15 Mar 2019: Busy <br />
+16 Mar 2019: Cracking the Coding Interview/Chapter 2/Remove Dups.py <br />
+17-19 Mar 2019: Busy <br />
 </details>
 <br />
 

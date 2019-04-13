@@ -82,8 +82,9 @@ Timeline: <br />
 <details><summary><b>April 2019</b></summary>
 1-12 Apr 2019: Busy <br />
 13 Apr 2019: Anonymous Love Letter.py <br/>
+14 Apr 2019: LeetCode/Easy/Two Sum.py <br/>
 </details>
 <br />
 
 Count_no_py_files.py: To count the number of python files in the current directory <br />
-Current number of python files: 34
+Current number of python files: 35

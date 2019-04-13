@@ -76,9 +76,14 @@ Timeline: <br />
 10 Mar 2019: Staircase.py <br />
 11-15 Mar 2019: Busy <br />
 16 Mar 2019: Cracking the Coding Interview/Chapter 2/Remove Dups.py <br />
-17-19 Mar 2019: Busy <br />
+17-31 Mar 2019: Busy <br />
+</details>
+<br />
+<details><summary><b>April 2019</b></summary>
+1-12 Apr 2019: Busy <br />
+13 Apr 2019: Anonymous Love Letter.py <br/>
 </details>
 <br />
 
 Count_no_py_files.py: To count the number of python files in the current directory <br />
-Current number of python files: 32
+Current number of python files: 34

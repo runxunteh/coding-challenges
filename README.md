@@ -90,8 +90,15 @@ Timeline: <br />
 1-3 May 2019: Busy <br />
 4 May 2019: LeetCode/Medium/Add Two Numbers.py <br />
 5 May 2019: LeetCode/Medium/longest_substring_without_repeating_characters.py <br />
+6-31 May 2019: Busy <br />
+</details>
+<br />
+
+<details><summary><b>June 2019</b></summary>
+1-29 Jun 2019: Busy <br />
+30 Jun 2019: Newspaper.py <br />
 </details>
 <br />
 
 Count_no_py_files.py: To count the number of python files in the current directory <br />
-Current number of python files: 37
+Current number of python files: 38

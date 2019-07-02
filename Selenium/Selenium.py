@@ -1,11 +1,34 @@
 from selenium import webdriver
-from selenium.webdriver.support.select import Select
+from selenium.webdriver.support.ui import WebDriverWait
 
 #Google chrome browser
 browser = webdriver.Chrome()
 #Maximize the browser window
 browser.maximize_window()
 
+#Open the web page
+browser.get("https://www.adidas.com.my/en/men")
+
+#Shop for shoes
+shoes=browser.find_element_by_css_selector('.gl-label--l')
+shoes.click()
+
+#browser.implicitly_wait(30000)
+#Extract product name and price
+product_titles = browser.find_elements_by_class_name('title')
+price=browser.find_elements_by_class_name('price')
+for title in product_titles:
+    print(title.text)
+for price in price:
+    print(price.text)
+
+#Filter it
+#Select the sort by dropdown list
+filt=browser.find_element_by_xpath('//*[@id="top-sorting-options"]/div/div/a').click()
+#Sort by price(low-high)
+price=browser.find_element_by_xpath('//*[@id="top-sorting-options"]/div/div/div/div[2]/div/ul/li[6]/span').click()
+
+"""
 #Open the web page
 browser.get("https://www.adidas.com.my/yeezy")
 
@@ -27,7 +50,7 @@ items = browser.find_elements_by_id("select-size-option")
 for item in items:
     text = item.text
     print(text)
-
+"""
 """
 #For the yeezy website, we want to click the size chart when we enter the web page
 size_chart=browser.find_element_by_css_selector('.src-components-___available__sizeChartLink___3HHCN')

@@ -103,8 +103,9 @@ Timeline: <br />
 <details><summary><b>July 2019</b></summary>
 1-2 July 2019: Selenium.py <br />
 3 July 2019: Neural_network.py <br />
+4 July 2019: Matplotlib.py <br />
 </details>
 <br />
 
 Count_no_py_files.py: To count the number of python files in the current directory <br />
-Current number of python files: 40
+Current number of python files: 41

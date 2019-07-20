@@ -107,6 +107,8 @@ Timeline: <br />
 5 July 2019: Tensorflow.py<br />
 6-7 July 2019: Busy <br />
 8 July 2019: Belgian_TS.py <br />
+9-19 July 2019: Busy <br />
+20 July 2019: Numpy.py <br />
 </details>
 <br />
 
